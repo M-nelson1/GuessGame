@@ -1,4 +1,3 @@
-<!-- File: /app/View/Posts/add.ctp -->
 
 <h2>You got it! Now enter your name and hit submit!</h2>
 <?php
